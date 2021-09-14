@@ -47,7 +47,20 @@ var questions=[{
   b.Stark Industries
   c.Avengers\n`,
   answer:"b"
-}]
+},{
+  question:`Iron-man Spouse Name 
+  a.Pepper Potts
+  b.War Machine
+  c.Avengers\n`,
+  answer:"a"
+},
+
+
+
+
+
+
+]
 
 
 for(var i=0;i<questions.length;i++){
